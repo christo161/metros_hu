@@ -1,0 +1,71 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="170px" height="170px" viewBox="0 0 170 170">
+<defs>
+<g id="FL_4es_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 158.95 14
+L 129.45 14 129.45 0 29.5 0 29.5 14 0 14 0 104.55 79.45 161.95 158.95 104.55 158.95 14
+M 124.2 26.5
+L 146.45 26.5 146.45 97.4 93 136 131.4 64 120.7 58.15 79.45 135.5 38.25 58.15 27.55 64 65.9 136 12.5 97.4 12.5 26.5 34.7 26.5 79.45 97.8 124.2 26.5
+M 110.95 13.5
+Q 116.5392578125 13.47890625 114.25 16.8
+L 82.15 68
+Q 79.9171875 71.97265625 76.75 68
+L 44.7 16.8
+Q 42.4107421875 13.47890625 48 13.5
+L 110.95 13.5 Z"/>
+
+<path fill="#009933" stroke="none" d="
+M 114.25 16.8
+Q 116.5392578125 13.47890625 110.95 13.5
+L 48 13.5
+Q 42.4107421875 13.47890625 44.7 16.8
+L 76.75 68
+Q 79.9171875 71.97265625 82.15 68
+L 114.25 16.8
+M 146.45 26.5
+L 124.2 26.5 79.45 97.8 34.7 26.5 12.5 26.5 12.5 97.4 65.9 136 27.55 64 38.25 58.15 79.45 135.5 120.7 58.15 131.4 64 93 136 146.45 97.4 146.45 26.5 Z"/>
+</g>
+
+<path id="FL_4es_0_Layer0_0_1_STROKES" stroke="#009933" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 129.45 0
+L 129.45 14 158.95 14 158.95 104.55
+M 79.475 161.95
+L 0 104.55 0 14 29.5 14 29.5 0
+M 158.95 104.55
+L 79.475 161.95
+M 29.5 0
+L 129.45 0"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Century Gothic Bold
+Vendor ID: MONO
+Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved
+http://www.monotype.com/html/type/license.html
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MONO&Name=Century%20Gothic&PSName=CenturyGothic-Bold&applanguage=en_US-->
+<font-face font-family="Century_Gothic_Bold" units-per-em="2048" ascent="2032" descent="451"/>
+
+<glyph unicode="4" horiz-adv-x="1147" d="
+M 679 1508
+L 958 1508 958 561 1089 561 1089 302 958 302 958 0 684 0 684 302 42 302 42 561 679 1508 Z
+M 684 561
+L 684 1054 348 561 684 561 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 5,4.5) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#FL_4es_0_Layer0_0_FILL"/>
+
+<use xlink:href="#FL_4es_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 68,6.55) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="27.7" height="54.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="41.65" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="42" fill="#FFFFFF" xml:space="preserve">4</tspan></text>
+</g>
+</g>
+</svg>

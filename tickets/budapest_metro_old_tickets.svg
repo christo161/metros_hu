@@ -1,0 +1,948 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="480px" height="250px" viewBox="0 0 480 250">
+<defs>
+<g id="Layer0_0_FILL">
+<path fill="#CC9966" stroke="none" d="
+M 21.3 94
+L 9.55 94 9.55 158 21.3 158 21.3 94
+M 21.3 94
+L 21.3 90.5 5.55 90.5 5.55 162 21.3 162 21.3 158 9.55 158 9.55 94 21.3 94
+M 229.55 158
+L 229.55 94 32.05 94 32.05 158 229.55 158
+M 191.9 139.65
+L 196.2 123.85 191.15 105.35 208.65 122.85 191.9 139.65
+M 233.55 162
+L 233.55 90.5 32.05 90.5 32.05 94 229.55 94 229.55 158 32.05 158 32.05 162 233.55 162
+M 259.3 94
+L 247.55 94 247.55 158 259.3 158 259.3 94
+M 259.3 90.5
+L 243.55 90.5 243.55 162 259.3 162 259.3 158 247.55 158 247.55 94 259.3 94 259.3 90.5
+M 467.55 158
+L 467.55 94 270.05 94 270.05 158 467.55 158
+M 429.9 139.65
+L 434.2 123.85 429.15 105.35 446.65 122.85 429.9 139.65
+M 471.55 162
+L 471.55 90.5 270.05 90.5 270.05 94 467.55 94 467.55 158 270.05 158 270.05 162 471.55 162
+M 259.3 10
+L 247.55 10 247.55 74 259.3 74 259.3 10
+M 259.3 6.5
+L 243.55 6.5 243.55 78 259.3 78 259.3 74 247.55 74 247.55 10 259.3 10 259.3 6.5
+M 467.55 74
+L 467.55 10 270.05 10 270.05 74 467.55 74
+M 434.2 39.85
+L 429.15 21.35 446.65 38.85 429.9 55.65 434.2 39.85
+M 467.55 10
+L 467.55 74 270.05 74 270.05 78 471.55 78 471.55 6.5 270.05 6.5 270.05 10 467.55 10 Z"/>
+
+<path fill="#999999" stroke="none" d="
+M 32.05 94
+L 32.05 90.5 21.3 90.5 21.3 94 21.3 158 21.3 162 32.05 162 32.05 158 32.05 94
+M 21.3 6.5
+L 21.3 10 21.3 74 21.3 78 32.05 78 32.05 74 32.05 10 32.05 6.5 21.3 6.5
+M 208.7 175
+L 208.7 180.5 208.7 230.5 208.7 236 218.2 236 218.2 230.5 218.2 180.5 218.2 175 208.7 175
+M 259.3 90.5
+L 259.3 94 259.3 158 259.3 162 270.05 162 270.05 158 270.05 94 270.05 90.5 259.3 90.5
+M 259.3 6.5
+L 259.3 10 259.3 74 259.3 78 270.05 78 270.05 74 270.05 10 270.05 6.5 259.3 6.5 Z"/>
+
+<path fill="#FF9900" stroke="none" d="
+M 196.2 123.85
+L 191.9 139.65 208.65 122.85 191.15 105.35 196.2 123.85
+M 145.5 10.25
+L 144.8 10.5 144.8 74 145 74 157.8 41.5 145.5 10.25
+M 434.2 123.85
+L 429.9 139.65 446.65 122.85 429.15 105.35 434.2 123.85
+M 429.15 21.35
+L 434.2 39.85 429.9 55.65 446.65 38.85 429.15 21.35 Z"/>
+
+<path fill="#FFCCFF" stroke="none" d="
+M 21.3 10
+L 9.55 10 9.55 74 21.3 74 21.3 10
+M 21.3 6.5
+L 5.55 6.5 5.55 78 21.3 78 21.3 74 9.55 74 9.55 10 21.3 10 21.3 6.5
+M 144.8 10.5
+L 144.8 10 32.05 10 32.05 74 144.8 74 144.8 10.5
+M 209.55 30
+L 188.8 30 188.8 51.75 209.55 51.75 209.55 30
+M 229.55 51.75
+L 209.55 51.75 209.55 74 229.55 74 229.55 51.75
+M 188.8 74
+L 188.8 51.75 167.05 51.75 167.05 74 188.8 74
+M 188.8 51.75
+L 188.8 74 209.55 74 209.55 51.75 188.8 51.75
+M 167.05 30
+L 167.05 10 145.5 10 145.5 10.2 145.5 10.25 157.8 41.5 145 74 167.05 74 167.05 51.75 167.05 30
+M 188.8 30
+L 167.05 30 167.05 51.75 188.8 51.75 188.8 30
+M 167.05 30
+L 188.8 30 188.8 10 167.05 10 167.05 30
+M 209.55 10
+L 229.55 10 229.55 30 229.55 51.75 229.55 74 209.55 74 188.8 74 167.05 74 145 74 144.8 74 32.05 74 32.05 78 233.55 78 233.55 6.5 32.05 6.5 32.05 10 144.8 10 145.4 10 145.5 10 167.05 10 188.8 10 209.55 10
+M 209.55 30
+L 209.55 10 188.8 10 188.8 30 209.55 30
+M 229.55 30
+L 209.55 30 209.55 51.75 229.55 51.75 229.55 30
+M 209.55 30
+L 229.55 30 229.55 10 209.55 10 209.55 30
+M 137.85 214.25
+L 137.85 230.5 153.85 230.5 153.85 214.25 137.85 214.25
+M 121.85 214.25
+L 121.85 230.5 137.85 230.5 137.85 214.25 121.85 214.25
+M 121.85 230.5
+L 121.85 214.25 106.35 214.25 106.35 230.5 121.85 230.5
+M 121.85 197.25
+L 106.35 197.25 106.35 214.25 121.85 214.25 121.85 197.25
+M 153.85 197.25
+L 137.85 197.25 137.85 214.25 153.85 214.25 153.85 197.25
+M 153.85 180.5
+L 153.85 197.25 153.85 214.25 153.85 230.5 208.7 230.5 208.7 180.5 153.85 180.5
+M 153.85 197.25
+L 153.85 180.5 137.85 180.5 137.85 197.25 153.85 197.25
+M 121.85 197.25
+L 137.85 197.25 137.85 180.5 121.85 180.5 121.85 197.25
+M 137.85 197.25
+L 121.85 197.25 121.85 214.25 137.85 214.25 137.85 197.25
+M 106.35 180.5
+L 106.35 197.25 121.85 197.25 121.85 180.5 106.35 180.5
+M 308.7 197.25
+L 308.7 180.5 218.2 180.5 218.2 230.5 308.7 230.5 308.7 214.25 308.7 197.25
+M 208.7 180.5
+L 208.7 175 99.95 175 99.95 236 208.7 236 208.7 230.5 153.85 230.5 137.85 230.5 121.85 230.5 106.35 230.5 106.35 214.25 106.35 197.25 106.35 180.5 121.85 180.5 137.85 180.5 153.85 180.5 208.7 180.5
+M 324.7 214.25
+L 324.7 197.25 308.7 197.25 308.7 214.25 324.7 214.25
+M 340.7 214.25
+L 340.7 230.5 356.05 230.5 356.05 214.25 340.7 214.25
+M 324.7 230.5
+L 324.7 214.25 308.7 214.25 308.7 230.5 324.7 230.5
+M 324.7 214.25
+L 324.7 230.5 340.7 230.5 340.7 214.25 324.7 214.25
+M 340.7 197.25
+L 324.7 197.25 324.7 214.25 340.7 214.25 340.7 197.25
+M 324.7 197.25
+L 324.7 180.5 308.7 180.5 308.7 197.25 324.7 197.25
+M 324.7 180.5
+L 324.7 197.25 340.7 197.25 340.7 180.5 324.7 180.5
+M 356.05 180.5
+L 356.05 197.25 356.05 214.25 356.05 230.5 340.7 230.5 324.7 230.5 308.7 230.5 218.2 230.5 218.2 236 362.45 236 362.45 175 218.2 175 218.2 180.5 308.7 180.5 324.7 180.5 340.7 180.5 356.05 180.5
+M 356.05 197.25
+L 340.7 197.25 340.7 214.25 356.05 214.25 356.05 197.25
+M 340.7 197.25
+L 356.05 197.25 356.05 180.5 340.7 180.5 340.7 197.25 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#FF3399" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 340.7 180.5
+L 340.7 197.25 356.05 197.25 356.05 180.5 340.7 180.5 324.7 180.5 324.7 197.25 340.7 197.25 340.7 214.25 356.05 214.25 356.05 197.25
+M 324.7 230.5
+L 340.7 230.5 340.7 214.25 324.7 214.25 324.7 230.5 308.7 230.5 218.2 230.5 218.2 236 362.45 236 362.45 175 218.2 175 218.2 180.5 308.7 180.5 324.7 180.5
+M 356.05 214.25
+L 356.05 230.5 340.7 230.5
+M 324.7 197.25
+L 324.7 214.25 308.7 214.25 308.7 230.5
+M 229.55 30
+L 229.55 10 209.55 10 209.55 30 229.55 30 229.55 51.75 229.55 74 209.55 74 188.8 74 167.05 74 145 74 144.8 74 32.05 74 32.05 78 233.55 78 233.55 6.5 32.05 6.5 32.05 10 144.8 10 145.4 10 145.5 10 167.05 10 188.8 10 209.55 10
+M 167.05 10
+L 167.05 30 188.8 30 188.8 10
+M 209.55 74
+L 209.55 51.75 188.8 51.75 188.8 74
+M 188.8 51.75
+L 167.05 51.75 167.05 74
+M 209.55 30
+L 209.55 51.75 229.55 51.75
+M 209.55 30
+L 188.8 30 188.8 51.75
+M 167.05 30
+L 167.05 51.75
+M 208.7 180.5
+L 208.7 175 99.95 175 99.95 236 208.7 236 208.7 230.5 153.85 230.5 137.85 230.5 121.85 230.5 106.35 230.5 106.35 214.25 106.35 197.25 106.35 180.5 121.85 180.5 137.85 180.5 153.85 180.5 208.7 180.5 208.7 230.5
+M 208.7 175
+L 218.2 175
+M 308.7 180.5
+L 308.7 197.25 324.7 197.25
+M 145.4 10
+L 145.5 10.2 145.5 10.25
+M 21.3 6.5
+L 5.55 6.5 5.55 78 21.3 78 21.3 74 9.55 74 9.55 10 21.3 10 21.3 6.5 32.05 6.5
+M 21.3 78
+L 32.05 78
+M 32.05 10
+L 32.05 74
+M 21.3 10
+L 21.3 74
+M 121.85 197.25
+L 121.85 214.25 137.85 214.25 137.85 197.25 121.85 197.25 121.85 180.5
+M 137.85 180.5
+L 137.85 197.25 153.85 197.25 153.85 180.5
+M 106.35 197.25
+L 121.85 197.25
+M 121.85 230.5
+L 121.85 214.25 106.35 214.25
+M 153.85 230.5
+L 153.85 214.25 137.85 214.25 137.85 230.5
+M 218.2 236
+L 208.7 236
+M 308.7 197.25
+L 308.7 214.25
+M 153.85 197.25
+L 153.85 214.25
+M 218.2 180.5
+L 218.2 230.5"/>
+
+<path id="Layer0_0_2_STROKES" stroke="#009900" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 32.05 162
+L 233.55 162 233.55 90.5 32.05 90.5 32.05 94 229.55 94 229.55 158 32.05 158 32.05 162 21.3 162 5.55 162 5.55 90.5 21.3 90.5 32.05 90.5
+M 21.3 94
+L 21.3 90.5
+M 21.3 158
+L 9.55 158 9.55 94 21.3 94 21.3 158 21.3 162
+M 32.05 94
+L 32.05 158"/>
+
+<path id="Layer0_0_3_STROKES" stroke="#0066FF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 270.05 10
+L 467.55 10 467.55 74 270.05 74 270.05 78 471.55 78 471.55 6.5 270.05 6.5 270.05 10 270.05 74
+M 259.3 6.5
+L 243.55 6.5 243.55 78 259.3 78 259.3 74 247.55 74 247.55 10 259.3 10 259.3 6.5 270.05 6.5
+M 259.3 78
+L 270.05 78
+M 259.3 10
+L 259.3 74"/>
+
+<path id="Layer0_0_4_STROKES" stroke="#990000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 270.05 162
+L 471.55 162 471.55 90.5 270.05 90.5 270.05 94 467.55 94 467.55 158 270.05 158 270.05 162 259.3 162 243.55 162 243.55 90.5 259.3 90.5 270.05 90.5
+M 259.3 158
+L 247.55 158 247.55 94 259.3 94 259.3 90.5
+M 259.3 162
+L 259.3 158 259.3 94
+M 270.05 94
+L 270.05 158"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Century Gothic
+Vendor ID: MONO
+Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved
+http://www.monotype.com/html/type/license.html
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MONO&Name=Century%20Gothic&PSName=CenturyGothic&applanguage=en_US-->
+<font-face font-family="Century_Gothic_Regular" units-per-em="2048" ascent="1989" descent="451"/>
+
+<glyph unicode="B" horiz-adv-x="1176" d="
+M 327 708
+L 327 144 509 144
+Q 671 144 746 175 821 207 866 274 912 341 912 419 912 517 848 590 784 663 672 690 597 708 410 708
+L 327 708 Z
+M 183 1471
+L 473 1471
+Q 648 1471 742 1429 836 1388 891 1302 945 1216 945 1111 945 1013 897 932 849 852 757 802 872 763 933 710 995 658 1030 583 1064 509 1064 422 1064 245 935 122 805 0 587 0
+L 183 0 183 1471 Z
+M 327 1327
+L 327 856 411 856
+Q 565 856 637 884 709 913 751 974 793 1036 793 1111 793 1212 722 1269 652 1327 497 1327
+L 327 1327 Z"/>
+
+<glyph unicode="K" horiz-adv-x="1210" d="
+M 179 1471
+L 329 1471 329 919 917 1471 1115 1471 408 811 1170 0 974 0 329 685 329 0 179 0 179 1471 Z"/>
+
+<glyph unicode="V" horiz-adv-x="1438" d="
+M 67 1471
+L 227 1471 715 335 1210 1471 1370 1471 730 0 698 0 67 1471 Z"/>
+
+<glyph unicode=" " horiz-adv-x="567"/>
+
+<glyph unicode="R" horiz-adv-x="1243" d="
+M 187 1471
+L 480 1471
+Q 725 1471 812 1451 943 1421 1025 1322 1107 1224 1107 1079 1107 959 1051 868 994 777 889 731 784 684 599 683
+L 1128 0 946 0 417 683 334 683 334 0 187 0 187 1471 Z
+M 334 1327
+L 334 827 587 825
+Q 735 825 805 853 876 881 915 942 955 1004 955 1080 955 1154 915 1214 875 1275 810 1301 745 1327 593 1327
+L 334 1327 Z"/>
+
+<glyph unicode="t" horiz-adv-x="694" d="
+M 278 1492
+L 418 1492 418 1088 640 1088 640 967 418 967 418 0 278 0 278 967 87 967 87 1088 278 1088 278 1492 Z"/>
+
+<glyph unicode="." horiz-adv-x="567" d="
+M 310 220
+Q 361 220 397 184 433 148 433 96 433 45 397 8 361 -28 310 -28 259 -28 223 8 187 45 187 96 187 148 223 184 259 220 310 220 Z"/>
+
+<glyph unicode="S" horiz-adv-x="1020" d="
+M 27 274
+L 152 349
+Q 284 106 457 106 531 106 596 140 661 175 695 233 729 291 729 356 729 430 679 501 610 599 427 737 243 876 198 938 120 1042 120 1163 120 1259 166 1338 212 1417 296 1462 379 1508 477 1508 581 1508 672 1456 762 1405 863 1267
+L 743 1176
+Q 660 1286 602 1321 543 1356 474 1356 385 1356 329 1302 272 1248 272 1169 272 1121 292 1076 312 1031 365 978 394 950 555 831 746 690 817 580 888 470 888 359 888 199 767 81 645 -37 471 -37 337 -37 228 34 119 106 27 274 Z"/>
+
+<glyph unicode="I" horiz-adv-x="463" d="
+M 158 1471
+L 305 1471 305 0 158 0 158 1471 Z"/>
+
+<glyph unicode="N" horiz-adv-x="1515" d="
+M 180 0
+L 180 1471 212 1471 1191 343 1191 1471 1336 1471 1336 0 1303 0 332 1114 332 0 180 0 Z"/>
+
+<glyph unicode="G" horiz-adv-x="1786" d="
+M 1598 1224
+L 1484 1116
+Q 1361 1237 1215 1299 1068 1362 929 1362 756 1362 600 1277 443 1192 357 1046 271 901 271 739 271 573 360 423 449 274 606 188 763 103 950 103 1177 103 1334 231 1491 359 1520 563
+L 1051 563 1051 705 1685 705
+Q 1683 364 1483 163 1282 -37 946 -37 538 -37 300 241 117 455 117 736 117 945 222 1125 327 1305 510 1406 693 1508 924 1508 1111 1508 1276 1440 1441 1373 1598 1224 Z"/>
+
+<glyph unicode="L" horiz-adv-x="946" d="
+M 179 1471
+L 326 1471 326 142 892 142 892 0 179 0 179 1471 Z"/>
+
+<glyph unicode="E" horiz-adv-x="1098" d="
+M 180 1471
+L 1023 1471 1023 1327 327 1327 327 866 1017 866 1017 722 327 722 327 144 1017 144 1017 0 180 0 180 1471 Z"/>
+
+<glyph unicode="T" horiz-adv-x="872" d="
+M 33 1327
+L 33 1471 839 1471 839 1327 511 1327 511 0 361 0 361 1327 33 1327 Z"/>
+
+<glyph unicode="C" horiz-adv-x="1665" d="
+M 1549 1198
+L 1433 1109
+Q 1337 1234 1203 1298 1068 1363 907 1363 731 1363 581 1278 431 1194 349 1051 266 909 266 731 266 462 451 282 635 102 916 102 1225 102 1433 344
+L 1549 256
+Q 1439 116 1275 39 1110 -37 907 -37 521 -37 298 220 111 437 111 744 111 1067 338 1287 564 1508 905 1508 1111 1508 1277 1426 1443 1345 1549 1198 Z"/>
+
+<glyph unicode="Z" horiz-adv-x="983" d="
+M 122 1329
+L 122 1471 898 1471 283 144 867 144 867 0 56 0 676 1329 122 1329 Z"/>
+
+<glyph unicode="F" horiz-adv-x="993" d="
+M 179 1471
+L 916 1471 916 1327 326 1327 326 866 916 866 916 722 326 722 326 0 179 0 179 1471 Z"/>
+
+<glyph unicode="A" horiz-adv-x="1515" d="
+M 780 1471
+L 1466 0 1307 0 1076 484 442 484 213 0 49 0 744 1471 780 1471 Z
+M 761 1158
+L 509 626 1012 626 761 1158 Z"/>
+
+<glyph unicode="H" horiz-adv-x="1399" d="
+M 177 1471
+L 324 1471 324 854 1073 854 1073 1471 1220 1471 1220 0 1073 0 1073 710 324 710 324 0 177 0 177 1471 Z"/>
+
+<glyph unicode="M" horiz-adv-x="1882" d="
+M 112 0
+L 323 1471 347 1471 945 264 1537 1471 1560 1471 1772 0 1628 0 1483 1052 962 0 925 0 399 1060 254 0 112 0 Z"/>
+
+<glyph unicode="O" horiz-adv-x="1780" d="
+M 886 1365
+Q 723 1365 577 1280 430 1195 348 1051 266 907 266 729 266 467 448 287 630 106 886 106 1057 106 1203 189 1349 272 1430 416 1512 560 1512 736 1512 912 1430 1053 1349 1195 1201 1280 1052 1365 886 1365 Z
+M 880 1508
+Q 1214 1508 1439 1285 1664 1062 1664 736 1664 413 1439 188 1215 -37 892 -37 564 -37 339 187 114 411 114 729 114 941 217 1122 319 1303 496 1405 673 1508 880 1508 Z"/>
+</font>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Century Gothic Bold
+Vendor ID: MONO
+Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved
+http://www.monotype.com/html/type/license.html
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MONO&Name=Century%20Gothic&PSName=CenturyGothic-Bold&applanguage=en_US-->
+<font-face font-family="Century_Gothic_Bold" units-per-em="2048" ascent="2032" descent="451"/>
+
+<glyph unicode="V" horiz-adv-x="1434" d="
+M 57 1471
+L 344 1471 715 426 1090 1471 1378 1471 848 0 578 0 57 1471 Z"/>
+
+<glyph unicode="O" horiz-adv-x="1720" d="
+M 863 1508
+Q 1175 1508 1399 1282 1624 1056 1624 731 1624 409 1402 186 1181 -37 865 -37 533 -37 314 192 95 421 95 736 95 947 197 1124 299 1301 478 1404 656 1508 863 1508 Z
+M 860 1234
+Q 655 1234 516 1092 377 950 377 731 377 487 552 345 688 234 865 234 1064 234 1204 378 1344 522 1344 733 1344 943 1203 1088 1062 1234 860 1234 Z"/>
+
+<glyph unicode="N" horiz-adv-x="1515" d="
+M 169 1471
+L 438 1471 1067 503 1067 1471 1347 1471 1347 0 1078 0 449 965 449 0 169 0 169 1471 Z"/>
+
+<glyph unicode="A" horiz-adv-x="1515" d="
+M 617 1471
+L 901 1471 1467 0 1176 0 1060 303 460 303 341 0 50 0 617 1471 Z
+M 761 1081
+L 563 576 957 576 761 1081 Z"/>
+
+<glyph unicode="L" horiz-adv-x="901" d="
+M 168 1471
+L 448 1471 448 267 856 267 856 0 168 0 168 1471 Z"/>
+
+<glyph unicode="J" horiz-adv-x="983" d="
+M 534 1471
+L 815 1471 815 495
+Q 815 262 778 168 741 74 656 18 571 -37 452 -37 209 -37 38 176
+L 240 365
+Q 307 289 354 263 401 237 445 237 490 237 512 275 534 313 534 442
+L 534 1471 Z"/>
+
+<glyph unicode="E" horiz-adv-x="1065" d="
+M 169 1471
+L 972 1471 972 1197 447 1197 447 931 972 931 972 662 447 662 447 275 972 275 972 0 169 0 169 1471 Z"/>
+
+<glyph unicode="G" horiz-adv-x="1720" d="
+M 1526 1231
+L 1329 1036
+Q 1142 1234 892 1234 675 1234 529 1090 382 946 382 740 382 527 534 379 686 231 910 231 1055 231 1154 292 1254 353 1315 483
+L 889 483 889 746 1629 746 1631 684
+Q 1631 491 1531 318 1431 145 1272 54 1113 -37 899 -37 670 -37 491 62 311 162 207 346 102 530 102 743 102 1035 295 1251 524 1508 891 1508 1083 1508 1250 1437 1391 1377 1526 1231 Z"/>
+
+<glyph unicode="Y" horiz-adv-x="1270" d="
+M 64 1471
+L 364 1471 639 942 912 1471 1209 1471 778 637 778 0 496 0 496 637 64 1471 Z"/>
+
+<glyph unicode="0" horiz-adv-x="1147" d="
+M 576 1242
+Q 505 1242 450 1196 395 1151 366 1040 337 929 337 715 337 436 403 329 470 223 576 223 677 223 737 324 810 446 810 732 810 1022 745 1132 679 1242 576 1242 Z
+M 569 1508
+Q 730 1508 847 1429 963 1350 1027 1187 1090 1025 1090 735 1090 442 1026 279 961 116 852 39 743 -37 577 -37 411 -37 298 40 185 117 121 274 57 431 57 721 57 1126 182 1308 321 1508 569 1508 Z"/>
+
+<glyph unicode="5" horiz-adv-x="1147" d="
+M 342 1471
+L 1031 1471 1031 1212 551 1212 491 945
+Q 516 952 540 955 564 959 586 959 786 959 919 822 1051 686 1051 473 1051 258 905 110 758 -37 548 -37 360 -37 225 70 90 177 48 363
+L 342 363
+Q 376 294 432 258 487 223 554 223 647 223 712 290 777 357 777 462 777 564 717 629 656 695 570 695 524 695 480 672 435 649 392 603
+L 164 654 342 1471 Z"/>
+
+<glyph unicode="8" horiz-adv-x="1147" d="
+M 576 648
+Q 475 648 406 586 337 525 337 440 337 351 402 289 467 228 573 228 680 228 744 285 807 343 807 434 807 525 741 586 675 648 576 648 Z
+M 875 798
+Q 975 734 1030 633 1084 532 1084 415 1084 288 1021 180 957 72 850 18 743 -37 577 -37 399 -37 294 16 189 68 126 175 63 281 63 415 63 531 114 627 164 723 265 798 199 865 166 940 132 1015 132 1099 132 1214 188 1309 243 1403 343 1456 443 1508 574 1508 703 1508 801 1455 899 1402 956 1305 1012 1207 1012 1095 1012 1016 983 949 953 882 875 798 Z
+M 565 1238
+Q 496 1238 452 1193 407 1147 407 1076 407 1006 454 958 501 910 570 910 641 910 687 957 732 1004 732 1078 732 1149 686 1194 640 1238 565 1238 Z"/>
+
+<glyph unicode="7" horiz-adv-x="1147" d="
+M 123 1471
+L 1088 1471 1088 1324 424 -37 187 78 740 1208 123 1208 123 1471 Z"/>
+
+<glyph unicode="9" horiz-adv-x="1147" d="
+M 553 -37
+L 315 81 573 582
+Q 385 582 254 716 123 850 123 1048 123 1241 258 1375 392 1508 582 1508 781 1508 914 1370 1046 1231 1046 1052 1046 984 1026 915 1005 847 931 704
+L 553 -37 Z
+M 588 847
+Q 666 847 719 904 772 961 772 1044 772 1130 717 1188 661 1246 587 1246 509 1246 453 1189 397 1131 397 1045 397 961 452 904 506 847 588 847 Z"/>
+
+<glyph unicode="4" horiz-adv-x="1147" d="
+M 679 1508
+L 958 1508 958 561 1089 561 1089 302 958 302 958 0 684 0 684 302 42 302 42 561 679 1508 Z
+M 684 561
+L 684 1054 348 561 684 561 Z"/>
+
+<glyph unicode="1" horiz-adv-x="1147" d="
+M 337 1471
+L 756 1471 756 0 478 0 478 1208 175 1208 337 1471 Z"/>
+
+<glyph unicode="2" horiz-adv-x="1147" d="
+M 357 997
+L 84 997
+Q 95 1235 234 1371 372 1508 589 1508 723 1508 826 1451 928 1395 990 1288 1051 1182 1051 1072 1051 941 976 790 902 639 704 433
+L 539 259 1063 259 1063 0 44 0 44 134 499 598
+Q 664 765 719 866 773 968 773 1050 773 1135 717 1190 660 1246 571 1246 481 1246 421 1179 361 1112 357 997 Z"/>
+
+<glyph unicode="6" horiz-adv-x="1147" d="
+M 559 624
+Q 481 624 428 567 375 511 375 426 375 341 431 283 486 225 560 225 638 225 694 282 750 339 750 426 750 511 696 567 641 624 559 624 Z
+M 594 1508
+L 833 1389 575 889
+Q 762 889 893 755 1024 621 1024 422 1024 230 890 96 755 -37 565 -37 366 -37 234 101 101 240 101 419 101 487 122 556 142 625 216 768
+L 594 1508 Z"/>
+
+<glyph unicode="3" horiz-adv-x="1147" d="
+M 389 1108
+L 120 1108
+Q 141 1271 237 1370 371 1508 574 1508 755 1508 878 1393 1000 1278 1000 1120 1000 1022 947 941 893 860 791 810 925 770 1001 670 1076 571 1076 436 1076 238 930 100 784 -37 558 -37 344 -37 209 92 74 222 61 445
+L 338 445
+Q 356 331 418 275 479 220 573 220 671 220 736 283 800 346 800 437 800 537 713 606 626 675 462 677
+L 462 917
+Q 563 925 613 948 662 972 690 1013 717 1054 717 1100 717 1160 675 1199 633 1239 565 1239 505 1239 456 1202 407 1166 389 1108 Z"/>
+
+<glyph unicode="M" horiz-adv-x="1843" d="
+M 311 1471
+L 584 1471 925 445 1269 1471 1541 1471 1788 0 1517 0 1360 929 1047 0 800 0 491 929 329 0 56 0 311 1471 Z"/>
+
+<glyph unicode="T" horiz-adv-x="860" d="
+M 23 1471
+L 836 1471 836 1195 568 1195 568 0 284 0 284 1195 23 1195 23 1471 Z"/>
+
+<glyph unicode="R" horiz-adv-x="1188" d="
+M 187 1471
+L 484 1471
+Q 727 1471 831 1427 934 1384 997 1283 1060 1182 1060 1044 1060 899 991 801 921 704 781 654
+L 1130 0 823 0 493 623 467 623 467 0 187 0 187 1471 Z
+M 467 896
+L 555 896
+Q 688 896 739 931 789 966 789 1047 789 1096 764 1131 739 1167 697 1182 655 1198 544 1198
+L 467 1198 467 896 Z"/>
+
+<glyph unicode="Ó" horiz-adv-x="1720" d="
+M 863 1508
+Q 1175 1508 1399 1282 1624 1056 1624 731 1624 409 1402 186 1181 -37 865 -37 533 -37 314 192 95 421 95 736 95 947 197 1124 299 1301 478 1404 656 1508 863 1508 Z
+M 860 1234
+Q 655 1234 516 1092 377 950 377 731 377 487 552 345 688 234 865 234 1064 234 1204 378 1344 522 1344 733 1344 943 1203 1088 1062 1234 860 1234 Z
+M 911 1977
+L 1234 1977 868 1585 672 1585 911 1977 Z"/>
+
+<glyph unicode="S" horiz-adv-x="1065" d="
+M 940 1271
+L 733 1088
+Q 623 1240 510 1240 455 1240 420 1210 385 1181 385 1144 385 1107 410 1074 444 1030 615 885 776 751 810 716 895 630 930 551 966 473 966 380 966 199 841 81 716 -37 515 -37 357 -37 241 40 124 117 41 282
+L 276 424
+Q 383 229 521 229 593 229 642 271 691 313 691 368 691 418 654 468 617 518 491 621 250 817 180 923 110 1030 110 1136 110 1289 227 1398 343 1508 514 1508 625 1508 724 1457 824 1406 940 1271 Z"/>
+
+<glyph unicode="Z" horiz-adv-x="1024" d="
+M 90 1471
+L 980 1471 456 269 946 269 946 0 47 0 568 1194 90 1194 90 1471 Z"/>
+
+<glyph unicode="K" horiz-adv-x="1270" d="
+M 170 1471
+L 453 1471 453 964 852 1471 1189 1471 675 814 1239 0 906 0 453 654 453 0 170 0 170 1471 Z"/>
+
+<glyph unicode="Á" horiz-adv-x="1515" d="
+M 617 1471
+L 901 1471 1467 0 1176 0 1060 303 460 303 341 0 50 0 617 1471 Z
+M 761 1081
+L 563 576 957 576 761 1081 Z
+M 808 1977
+L 1131 1977 765 1585 569 1585 808 1977 Z"/>
+
+<glyph unicode="-" horiz-adv-x="860" d="
+M 176 669
+L 684 669 684 415 176 415 176 669 Z"/>
+
+<glyph unicode="F" horiz-adv-x="983" d="
+M 172 1471
+L 902 1471 902 1198 450 1198 450 931 902 931 902 662 450 662 450 0 172 0 172 1471 Z"/>
+
+<glyph unicode=" " horiz-adv-x="573"/>
+
+<glyph unicode="I" horiz-adv-x="573" d="
+M 148 1471
+L 426 1471 426 0 148 0 148 1471 Z"/>
+
+<glyph unicode="C" horiz-adv-x="1597" d="
+M 1520 1212
+L 1324 1026
+Q 1124 1237 875 1237 664 1237 519 1093 375 949 375 737 375 590 439 476 503 362 620 297 737 232 880 232 1001 232 1102 278 1203 323 1324 443
+L 1514 245
+Q 1351 86 1206 25 1061 -37 875 -37 532 -37 314 180 95 398 95 738 95 958 195 1129 294 1300 480 1404 665 1508 879 1508 1061 1508 1230 1431 1398 1354 1520 1212 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+
+<use xlink:href="#Layer0_0_1_STROKES"/>
+
+<use xlink:href="#Layer0_0_2_STROKES"/>
+
+<use xlink:href="#Layer0_0_3_STROKES"/>
+
+<use xlink:href="#Layer0_0_4_STROKES"/>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 20.7,58.6) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="37.7" height="15.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="9.7" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="10" fill="#000000" xml:space="preserve">BKV Rt.</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 44.8,10.95) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="51.45" height="13.65" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="7.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="8" fill="#FF3399" xml:space="preserve">VONALJEGY</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 44.8,22.45) ">
+<clipPath id="Mask_Mask_3">
+<rect x="-2" y="-2" width="57.15" height="13.55" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"><tspan x="0" y="7.8" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="8" fill="#FF3399" xml:space="preserve">SINGLE TICKET</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 44.8,34) ">
+<clipPath id="Mask_Mask_4">
+<rect x="-2" y="-2" width="68" height="13.55" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_4)" writing-mode="lr"><tspan x="0" y="7.8" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="8" fill="#FF3399" letter-spacing="-0.5" xml:space="preserve">EINZELFAHRSCHEIN</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 44.1,63.6) ">
+<clipPath id="Mask_Mask_5">
+<rect x="-2" y="-2" width="10.85" height="14.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_5)" writing-mode="lr"><tspan x="0" y="8.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="9" fill="#FF3399" xml:space="preserve">N</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 51.25,63.6) ">
+<clipPath id="Mask_Mask_6">
+<rect x="-2" y="-2" width="10.2" height="11.05" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_6)" writing-mode="lr"><tspan x="0" y="5.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="6" fill="#FF3399" xml:space="preserve">O</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 59.2,63.6) ">
+<clipPath id="Mask_Mask_7">
+<rect x="-2" y="-2" width="34.5" height="14.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_7)" writing-mode="lr"><tspan x="0" y="8.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="9" fill="#FF3399" xml:space="preserve">058055</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 185.05,17.1) ">
+<clipPath id="Mask_Mask_8">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_8)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">7</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 185.05,38) ">
+<clipPath id="Mask_Mask_9">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_9)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">8</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 184.55,58.9) ">
+<clipPath id="Mask_Mask_10">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_10)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">9</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 206.05,17.1) ">
+<clipPath id="Mask_Mask_11">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_11)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">4</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 226.05,16.55) ">
+<clipPath id="Mask_Mask_12">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_12)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">1</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 206.3,38.65) ">
+<clipPath id="Mask_Mask_13">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_13)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">5</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 226.3,37.95) ">
+<clipPath id="Mask_Mask_14">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_14)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">2</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 205.9,59.8) ">
+<clipPath id="Mask_Mask_15">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_15)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">6</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 226.3,59.8) ">
+<clipPath id="Mask_Mask_16">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_16)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">3</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 20.7,142.6) ">
+<clipPath id="Mask_Mask_17">
+<rect x="-2" y="-2" width="37.7" height="15.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_17)" writing-mode="lr"><tspan x="0" y="9.7" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="10" fill="#000000" xml:space="preserve">BKV Rt.</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 72.7,99.95) ">
+<clipPath id="Mask_Mask_18">
+<rect x="-2" y="-2" width="109.2" height="16.15" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_18)" writing-mode="lr"><tspan x="0" y="9.95" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="10" fill="#009900" letter-spacing="0.4" xml:space="preserve">METRÓSZAKASZJEGY</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 72.7,111.7) ">
+<clipPath id="Mask_Mask_19">
+<rect x="-2" y="-2" width="105.7" height="14.75" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_19)" writing-mode="lr"><tspan x="0" y="8.75" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="9" fill="#009900" letter-spacing="0.1" xml:space="preserve">METRO SECTION TICKET</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 73.2,146.6) ">
+<clipPath id="Mask_Mask_20">
+<rect x="-2" y="-2" width="34.5" height="14.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_20)" writing-mode="lr"><tspan x="0" y="8.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="9" fill="#009900" xml:space="preserve">012345</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 258.7,58.6) ">
+<clipPath id="Mask_Mask_21">
+<rect x="-2" y="-2" width="37.7" height="15.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_21)" writing-mode="lr"><tspan x="0" y="9.7" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="10" fill="#000000" xml:space="preserve">BKV Rt.</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 310.7,15.95) ">
+<clipPath id="Mask_Mask_22">
+<rect x="-2" y="-2" width="114.6" height="16.15" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_22)" writing-mode="lr"><tspan x="0" y="9.95" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="10" fill="#0066FF" letter-spacing="0.4" xml:space="preserve">METRÓÁTSZÁLLÓJEGY</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 310.7,27.7) ">
+<clipPath id="Mask_Mask_23">
+<rect x="-2" y="-2" width="110.4" height="14.75" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_23)" writing-mode="lr"><tspan x="0" y="8.75" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="9" fill="#0066FF" letter-spacing="0.1" xml:space="preserve">METRO TRANSFER TICKET</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 311.2,62.6) ">
+<clipPath id="Mask_Mask_24">
+<rect x="-2" y="-2" width="34.5" height="14.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_24)" writing-mode="lr"><tspan x="0" y="8.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="9" fill="#0066FF" xml:space="preserve">012345</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 258.7,142.6) ">
+<clipPath id="Mask_Mask_25">
+<rect x="-2" y="-2" width="37.7" height="15.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_25)" writing-mode="lr"><tspan x="0" y="9.7" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="10" fill="#000000" xml:space="preserve">BKV Rt.</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 307.2,99.95) ">
+<clipPath id="Mask_Mask_26">
+<rect x="-2" y="-2" width="123.3" height="13.65" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_26)" writing-mode="lr"><tspan x="0" y="7.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="8" fill="#990000" xml:space="preserve">METRÓ-SZAKASZÁTSZÁLLÓJEGY</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 307.2,111.7) ">
+<clipPath id="Mask_Mask_27">
+<rect x="-2" y="-2" width="117.15" height="13.55" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_27)" writing-mode="lr"><tspan x="0" y="7.8" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="8" fill="#990000" letter-spacing="-0.5" xml:space="preserve">METRO SECTION TRANSFER TICKET</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 311.2,146.6) ">
+<clipPath id="Mask_Mask_28">
+<rect x="-2" y="-2" width="34.5" height="14.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_28)" writing-mode="lr"><tspan x="0" y="8.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="9" fill="#990000" xml:space="preserve">054321</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 228.7,187.1) ">
+<clipPath id="Mask_Mask_29">
+<rect x="-2" y="-2" width="60.85" height="13.65" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_29)" writing-mode="lr"><tspan x="0" y="7.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="8" fill="#FF3399" xml:space="preserve">ÁTSZÁLLÓJEGY</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 225.75,195.35) ">
+<clipPath id="Mask_Mask_30">
+<rect x="-2" y="-2" width="67.35" height="13.65" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_30)" writing-mode="lr"><tspan x="0" y="7.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="8" fill="#FF3399" xml:space="preserve">TRANSFER TICKET</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 248.35,217.25) ">
+<clipPath id="Mask_Mask_31">
+<rect x="-2" y="-2" width="24.4" height="14.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_31)" writing-mode="lr"><tspan x="0" y="8.9" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="9" fill="#660000" xml:space="preserve">0000</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 208.1,221.5) ">
+<clipPath id="Mask_Mask_32">
+<rect x="-2" y="-2" width="34.35" height="14.75" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_32)" writing-mode="lr"><tspan x="0" y="8.75" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Regular" font-size="9" fill="#000000" xml:space="preserve">BKV Rt.</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 355.8,186.35) ">
+<clipPath id="Mask_Mask_33">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_33)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">1</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 340.7,186.6) ">
+<clipPath id="Mask_Mask_34">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_34)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">4</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 324.7,186.6) ">
+<clipPath id="Mask_Mask_35">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_35)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">7</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 355.55,202.4) ">
+<clipPath id="Mask_Mask_36">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_36)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">2</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 340.7,202.9) ">
+<clipPath id="Mask_Mask_37">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_37)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">5</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 324.7,202.9) ">
+<clipPath id="Mask_Mask_38">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_38)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">8</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 355.3,219.25) ">
+<clipPath id="Mask_Mask_39">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_39)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">3</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 340.45,219.75) ">
+<clipPath id="Mask_Mask_40">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_40)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">6</tspan></text>
+</g>
+
+<g transform="matrix( 0, 1, -1, 0, 324.45,219.75) ">
+<clipPath id="Mask_Mask_41">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_41)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">9</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 106.85,226.3) ">
+<clipPath id="Mask_Mask_42">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_42)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">1</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 121.95,226.05) ">
+<clipPath id="Mask_Mask_43">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_43)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">4</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 137.95,226.05) ">
+<clipPath id="Mask_Mask_44">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_44)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">7</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 107.1,210.25) ">
+<clipPath id="Mask_Mask_45">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_45)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">2</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 121.95,209.75) ">
+<clipPath id="Mask_Mask_46">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_46)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">5</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 137.95,209.75) ">
+<clipPath id="Mask_Mask_47">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_47)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">8</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 107.35,193.4) ">
+<clipPath id="Mask_Mask_48">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_48)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">3</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 122.2,192.9) ">
+<clipPath id="Mask_Mask_49">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_49)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">6</tspan></text>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 138.2,192.9) ">
+<clipPath id="Mask_Mask_50">
+<rect x="-2" y="-2" width="10.9" height="18.5" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_50)" writing-mode="lr"><tspan x="0" y="11.85" baseline-shift="0%" kerning="0" font-family="Century_Gothic_Bold" font-weight="bold" font-size="12" fill="#FF3399" xml:space="preserve">9</tspan></text>
+</g>
+</svg>

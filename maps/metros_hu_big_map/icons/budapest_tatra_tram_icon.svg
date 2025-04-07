@@ -1,0 +1,470 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="130px" height="125px" viewBox="0 0 130 125">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="46.612500000000004" y1="23" x2="55.5875" y2="66" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFCC00"/>
+
+<stop  offset="100%" stop-color="#CD9E01"/>
+</linearGradient>
+
+<g id="sim_vilinger_0_Layer1_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 94.4 20.15
+Q 92.4837890625 17.75703125 90.2 15.5 74.743359375 0.005859375 52.85 0 30.9439453125 0.005859375 15.45 15.5 13.19296875 17.75703125 11.25 20.15 0.1126953125 33.994921875 -0.05 52.4 -0.025 52.637109375 -0.05 52.85 -0.0279296875 62.22109375 2.8 70.4 6.5736328125 81.39140625 15.45 90.25 30.9439453125 105.7564453125 52.85 105.75 74.743359375 105.7564453125 90.2 90.25 99.1083984375 81.39140625 102.9 70.4 105.7224609375 62.22109375 105.7 52.85 105.725 52.637109375 105.7 52.4 105.5763671875 33.994921875 94.4 20.15 Z"/>
+</g>
+
+<g id="tatra_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 354.5 111.5
+L 354.5 103 156.5 103 156.5 111.5 354.5 111.5 Z"/>
+</g>
+
+<g id="v_kerek_0_Layer0_0_FILL">
+<path fill="#666666" stroke="none" d="
+M 26 13
+Q 26 7.6 22.2 3.8 18.4 0 13 0 7.6 0 3.8 3.8 0 7.6 0 13 0 18.4 3.8 22.2 7.6 26 13 26 18.4 26 22.2 22.2 26 18.4 26 13 Z"/>
+</g>
+
+<g id="v_1sim_0_Layer0_0_FILL">
+<path fill="#0099CC" stroke="none" d="
+M 24.65 52.7
+L 51.3 52.75 51.3 9.1 33.7 9.1 24.65 52.7 Z"/>
+
+<path fill="#000000" stroke="none" d="
+M 33.05 98.65
+L 12.5 98.65 11 89.1 0 92.1 3.5 102 34.1 101.85 33.05 98.65 Z"/>
+
+<path fill="#FFCC00" stroke="none" d="
+M 213.55 95.25
+L 216.55 103.75 298.85 103.75 298.85 65.25 22.05 65.25 33.05 98.65 34.1 101.85 34.4 102.75 129.3 102.75 132.8 95.25 213.55 95.25 Z"/>
+
+<path fill="#FFFFFF" stroke="none" d="
+M 298.85 65.25
+L 298.85 0 122.05 0 34.95 3.25 33.7 9.1 51.3 9.1 51.3 52.75 24.65 52.7 22.05 65.25 298.85 65.25 Z"/>
+</g>
+
+<g id="v_ablak2_0_Layer0_0_FILL">
+<path fill="#0099CC" stroke="none" d="
+M 65.5 41.25
+L 65.5 21.6 0 21.6 0 41.25 65.5 41.25
+M 65.5 21.6
+L 65.5 0 0 0 0 21.6 65.5 21.6 Z"/>
+</g>
+
+<g id="v_ajto_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 28.2 78.75
+L 42.1 78.75 42.1 0 28.2 0 28.2 78.75
+M 13.85 0
+L 0 0 0 78.75 13.85 78.75 13.85 0
+M 28.2 0
+L 13.85 0 13.85 78.75 28.2 78.75 28.2 0
+M 55.95 0
+L 42.1 0 42.1 78.75 55.95 78.75 55.95 0 Z"/>
+</g>
+
+<g id="v_ablak_0_Layer0_0_FILL">
+<path fill="#0099CC" stroke="none" d="
+M 72.45 139.85
+L 72.45 171.5 81.7 171.5 81.7 139.85 72.45 139.85 Z"/>
+</g>
+
+<path id="sim_vilinger_0_Layer1_0_1_STROKES" stroke="#CCCCCC" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 94.425 20.15
+Q 105.5763671875 33.994921875 105.725 52.4 105.725 52.637109375 105.725 52.875 105.7224609375 62.22109375 102.9 70.4 99.1083984375 81.39140625 90.225 90.275 74.743359375 105.7564453125 52.85 105.75 30.9439453125 105.7564453125 15.45 90.275 6.5736328125 81.39140625 2.8 70.4 -0.0279296875 62.22109375 -0.025 52.875 -0.025 52.637109375 -0.025 52.4 0.1126953125 33.994921875 11.275 20.15 13.19296875 17.75703125 15.45 15.5 30.9439453125 0.005859375 52.85 0 74.743359375 0.005859375 90.225 15.5 92.4837890625 17.75703125 94.425 20.15 Z"/>
+
+<path id="tatra_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 511.95 31.95
+L 443.25 31.95 482.375 72.725 443.025 112.075 402.375 72.725 443.25 31.95 374.55 31.95
+M 156.5 111.5
+L 156.5 103 354.5 103 354.5 111.5"/>
+
+<path id="v_kerek_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 26 13
+Q 26 18.4 22.2 22.2 18.4 26 13 26 7.6 26 3.8 22.2 0 18.4 0 13 0 7.6 3.8 3.8 7.6 0 13 0 18.4 0 22.2 3.8 26 7.6 26 13 Z"/>
+
+<path id="v_1sim_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 298.85 103.75
+L 216.55 103.75 213.55 95.25 132.8 95.25 129.3 102.75 34.425 102.75 34.125 101.875
+M 33.075 98.65
+L 22.05 65.25 24.65 52.7 33.725 9.1 34.95 3.25 122.05 0 298.85 0
+M 33.725 9.1
+L 51.3 9.1 51.3 52.75 24.65 52.7
+M 33.075 98.65
+L 34.125 101.875"/>
+
+<path id="v_ablak2_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 65.5 21.6
+L 65.5 0 0 0 0 21.6
+M 65.5 21.6
+L 65.5 41.25 0 41.25 0 21.6 65.5 21.6 Z"/>
+
+<path id="v_ajto_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 55.95 0
+L 42.1 0 42.1 78.75
+M 0 0
+L 13.85 0 28.2 0 42.1 0
+M 28.2 78.75
+L 28.2 0
+M 13.85 78.75
+L 13.85 0
+M 55.95 78.75
+L 55.95 0
+M 0 78.75
+L 0 0"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Arial Black
+Vendor ID: TMC 
+© 2016 The Monotype Corporation. All Rights Reserved.
+http://www.microsoft.com/typography
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=Arial-Black&applanguage=en_US-->
+<font-face font-family="Arial_Black_Bold" units-per-em="2048" ascent="2254" descent="634"/>
+
+<hkern u1="r" u2="a" k="-35"/>
+
+<glyph unicode="v" horiz-adv-x="1251" d="
+M 3 1062
+L 426 1062 633 389 846 1062 1257 1062 806 0 445 0 3 1062 Z"/>
+
+<glyph unicode="i" horiz-adv-x="682" d="
+M 138 1062
+L 545 1062 545 0 138 0 138 1062 Z
+M 138 1466
+L 545 1466 545 1189 138 1189 138 1466 Z"/>
+
+<glyph unicode="l" horiz-adv-x="682" d="
+M 137 1466
+L 545 1466 545 0 137 0 137 1466 Z"/>
+
+<glyph unicode="a" horiz-adv-x="1366" d="
+M 494 718
+L 105 759
+Q 127 861 169 919 210 978 288 1021 344 1052 442 1069 540 1086 654 1086 837 1086 948 1065 1059 1045 1133 980 1185 935 1215 852 1245 770 1245 695
+L 1245 226
+Q 1245 151 1255 108 1264 66 1296 0
+L 914 0
+Q 891 41 884 62 877 84 870 130 790 53 711 20 603 -24 460 -24 270 -24 172 64 73 152 73 281 73 402 144 480 215 558 406 596 635 642 703 660 771 679 847 709 847 784 816 814 785 844 707 844 607 844 557 812 518 787 494 718 Z
+M 847 504
+Q 763 474 672 451 548 418 515 386 481 353 481 311 481 263 515 232 548 202 613 202 681 202 740 235 798 268 823 315 847 363 847 439
+L 847 504 Z"/>
+
+<glyph unicode="m" horiz-adv-x="2048" d="
+M 126 1062
+L 506 1062 506 907
+Q 588 1004 672 1045 755 1086 874 1086 1001 1086 1075 1041 1149 996 1196 907 1292 1011 1371 1048 1450 1086 1566 1086 1736 1086 1832 984 1928 883 1928 667
+L 1928 0 1520 0 1520 605
+Q 1520 677 1492 712 1451 767 1390 767 1319 767 1275 715 1231 663 1231 548
+L 1231 0 823 0 823 585
+Q 823 655 815 680 802 720 770 744 738 769 695 769 624 769 579 716 534 663 534 542
+L 534 0 126 0 126 1062 Z"/>
+
+<glyph unicode="o" horiz-adv-x="1366" d="
+M 481 529
+Q 481 387 539 319 596 251 683 251 771 251 828 318 884 385 884 533 884 671 827 738 770 806 686 806 597 806 539 737 481 669 481 529 Z
+M 73 528
+Q 73 771 237 928 401 1086 680 1086 999 1086 1162 901 1293 752 1293 534 1293 289 1131 132 968 -24 681 -24 425 -24 267 106 73 267 73 528 Z"/>
+
+<glyph unicode="s" horiz-adv-x="1251" d="
+M 51 295
+L 455 333
+Q 480 261 525 230 570 199 645 199 727 199 772 234 807 260 807 299 807 343 761 367 728 384 586 409 374 446 292 477 209 509 153 583 96 658 96 754 96 859 157 935 218 1011 325 1049 432 1086 612 1086 802 1086 893 1057 983 1028 1044 967 1104 906 1144 802
+L 758 764
+Q 743 815 708 839 660 871 592 871 523 871 492 847 460 822 460 787 460 748 500 728 540 708 674 692 877 669 976 628 1075 587 1128 511 1180 436 1180 345 1180 253 1125 166 1069 79 950 27 830 -24 624 -24 333 -24 210 59 86 142 51 295 Z"/>
+
+<glyph unicode=" " horiz-adv-x="683"/>
+
+<glyph unicode="|" horiz-adv-x="569" d="
+M 160 1466
+L 415 1466 415 -404 160 -404 160 1466 Z"/>
+
+<glyph unicode="t" horiz-adv-x="909" d="
+M 614 1466
+L 614 1062 838 1062 838 764 614 764 614 388
+Q 614 320 627 298 647 264 697 264 742 264 823 290
+L 853 9
+Q 702 -24 571 -24 419 -24 347 15 275 54 241 133 206 213 206 390
+L 206 764 56 764 56 1062 206 1062 206 1257 614 1466 Z"/>
+
+<glyph unicode="r" horiz-adv-x="909" d="
+M 127 1062
+L 508 1062 508 888
+Q 563 1001 622 1043 680 1086 766 1086 856 1086 963 1030
+L 837 740
+Q 765 770 723 770 643 770 599 704 536 611 536 356
+L 536 0 127 0 127 1062 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 11.65,9.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#sim_vilinger_0_Layer1_0_FILL"/>
+
+<use xlink:href="#sim_vilinger_0_Layer1_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -20.15,60) ">
+<clipPath id="Mask_Mask_1">
+<rect x="28.95" y="-2" width="86.1" height="20.9" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="31" y="13.2" baseline-shift="0%" kerning="auto" font-family="Arial_Black_Bold" font-weight="bold" font-size="12" fill="#FFFFFF" letter-spacing="-1" xml:space="preserve">villamos | tram</tspan></text>
+</g>
+
+<g transform="matrix( 0.1540679931640625, 0, 0, 0.1540679931640625, 7.3,26.45) ">
+<g transform="matrix( 1, 0, 0, 1, -12.2,-31.95) ">
+<use xlink:href="#tatra_0_Layer0_0_FILL"/>
+
+<use xlink:href="#tatra_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,80.05) ">
+<g transform="matrix( 1, 0, 0, 1, 125.45,91.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_kerek_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_kerek_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 197.05,92.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_kerek_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_kerek_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_1sim_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_1sim_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 123.8,11.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_ablak2_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_ablak2_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 197.65,12) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_ablak2_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_ablak2_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 58.05,24) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_ajto_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_ajto_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 2.2,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.05,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 2.2,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.05,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 53.75,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 39.9,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 53.75,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 39.9,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 595.2,80.05) ">
+<g transform="matrix( 1, 0, 0, 1, 125.45,91.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_kerek_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_kerek_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 197.05,92.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_kerek_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_kerek_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_1sim_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_1sim_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 123.8,11.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_ablak2_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_ablak2_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 197.65,12) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_ablak2_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_ablak2_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 58.05,24) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_ajto_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_ajto_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 2.2,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.05,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 2.2,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.05,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 53.75,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 39.9,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 53.75,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 39.9,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 268.3,104.2) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#v_ajto_0_Layer0_0_FILL"/>
+
+<use xlink:href="#v_ajto_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 2.2,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.05,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 2.2,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.05,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 53.75,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 39.9,3.85) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 53.75,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( -1, 0, 0, 1, 39.9,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, -72.45,-139.85) ">
+<use xlink:href="#v_ablak_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,107 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="130px" height="125px" viewBox="0 0 130 125">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="33.025" y1="36.2" x2="91.67500000000001" y2="36.2" spreadMethod="pad">
+<stop  offset="0%" stop-color="#0099CC"/>
+
+<stop  offset="100%" stop-color="#01667E"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="9.625" y1="86.65" x2="115.375" y2="86.65" spreadMethod="pad">
+<stop  offset="0%" stop-color="#0099CC"/>
+
+<stop  offset="100%" stop-color="#01667E"/>
+</linearGradient>
+
+<g id="Symbol_2_0_Layer0_0_FILL">
+<path fill="#FFCC00" stroke="none" d="
+M 115.35 60
+Q 115.2005859375 38.41328125 99.85 23.1 84.393359375 7.605859375 62.5 7.6 40.5939453125 7.605859375 25.1 23.1 9.7865234375 38.41328125 9.6 60
+L 115.35 60
+M 87.75 38.8
+L 85.85 44.25 77.9 44.25
+Q 74.3626953125 51.5626953125 63.8 54 54.402734375 55.1134765625 46.25 44.25
+L 37.85 44.25 36.2 38.6 61.3 38.6
+Q 65.74375 38.596484375 64.8 35.6 63.17109375 32.8390625 60.95 32.95
+L 34.55 32.95 33 27.55 47.2 27.55
+Q 54.136328125 18.123828125 63.3 18.35 72.2818359375 19.0765625 77.8 27.5
+L 91.7 27.5 89.75 33.1 79.55 33.1
+Q 79.8142578125 36.1595703125 79.45 38.8
+L 87.75 38.8
+M 63.45 27.55
+Q 68.96484375 28.675390625 70.7 35.85 71.359375 42.41796875 62.55 44.25
+L 54.7 44.25
+Q 58.2365234375 48.61953125 64.95 47.35 74.5279296875 42.76484375 73.7 35.35 71.220703125 25.515234375 64.05 24.5 59.0107421875 24.199609375 55.3 27.55
+L 63.45 27.55 Z"/>
+
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 85.85 44.25
+L 87.75 38.8 79.45 38.8
+Q 79.8142578125 36.1595703125 79.55 33.1
+L 89.75 33.1 91.7 27.5 77.8 27.5
+Q 72.2818359375 19.0765625 63.3 18.35 54.136328125 18.123828125 47.2 27.55
+L 33 27.55 34.55 32.95 60.95 32.95
+Q 63.17109375 32.8390625 64.8 35.6 65.74375 38.596484375 61.3 38.6
+L 36.2 38.6 37.85 44.25 46.25 44.25
+Q 54.402734375 55.1134765625 63.8 54 74.3626953125 51.5626953125 77.9 44.25
+L 85.85 44.25
+M 70.7 35.85
+Q 68.96484375 28.675390625 63.45 27.55
+L 55.3 27.55
+Q 59.0107421875 24.199609375 64.05 24.5 71.220703125 25.515234375 73.7 35.35 74.5279296875 42.76484375 64.95 47.35 58.2365234375 48.61953125 54.7 44.25
+L 62.55 44.25
+Q 71.359375 42.41796875 70.7 35.85 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 99.85 97.85
+Q 115.3689453125 82.3806640625 115.35 60.45 115.375 60.237109375 115.35 60
+L 9.6 60
+Q 9.625 60.237109375 9.6 60.45 9.618359375 82.3806640625 25.1 97.85 40.5939453125 113.3564453125 62.5 113.35 84.393359375 113.3564453125 99.85 97.85 Z"/>
+</g>
+
+<path id="Symbol_2_0_Layer0_0_1_STROKES" stroke="#999999" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 115.375 60
+Q 115.375 60.237109375 115.375 60.475 115.3689453125 82.3806640625 99.875 97.875 84.393359375 113.3564453125 62.5 113.35 40.5939453125 113.3564453125 25.1 97.875 9.618359375 82.3806640625 9.625 60.475 9.625 60.237109375 9.625 60 9.7865234375 38.41328125 25.1 23.1 40.5939453125 7.605859375 62.5 7.6 84.393359375 7.605859375 99.875 23.1 115.2005859375 38.41328125 115.375 60 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Arial Black
+Vendor ID: TMC 
+© 2016 The Monotype Corporation. All Rights Reserved.
+http://www.microsoft.com/typography
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=Arial-Black&applanguage=en_US-->
+<font-face font-family="Arial_Black_Bold" units-per-em="2048" ascent="2254" descent="634"/>
+
+<glyph unicode="M" horiz-adv-x="1933" d="
+M 145 1466
+L 741 1466 971 574 1199 1466 1794 1466 1794 0 1423 0 1423 1118 1137 0 801 0 516 1118 516 0 145 0 145 1466 Z"/>
+
+<glyph unicode="Á" horiz-adv-x="1593" d="
+M 1051 242
+L 537 242 466 0 3 0 554 1466 1048 1466 1599 0 1125 0 1051 242 Z
+M 786 1854
+L 1136 1854 813 1555 618 1555 786 1854 Z
+M 957 559
+L 796 1086 635 559 957 559 Z"/>
+
+<glyph unicode="V" horiz-adv-x="1593" d="
+M 6 1466
+L 480 1466 810 411 1135 1466 1595 1466 1051 0 560 0 6 1466 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 11.65,9.6) ">
+<g transform="matrix( 1, 0, 0, 1, -9.65,-7.6) ">
+<use xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Symbol_2_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1.1846771240234375, 0, 0, 1, -34.6,56.25) ">
+<clipPath id="Mask_Mask_1">
+<rect x="44.45" y="-2" width="55.1" height="37.85" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="46.5" y="26.4" baseline-shift="0%" kerning="auto" font-family="Arial_Black_Bold" font-weight="bold" font-size="24" fill="#FFCC00" letter-spacing="-1" xml:space="preserve">M</tspan><tspan baseline-shift="0%" kerning="auto" font-family="Arial_Black_Bold" font-weight="bold" font-size="24" fill="#FFCC00" letter-spacing="-4" xml:space="preserve">ÁV</tspan></text>
+</g>
+</g>
+</svg>
